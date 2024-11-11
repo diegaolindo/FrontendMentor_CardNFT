@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+body {
+    background-color: #0D1A2D;
+}
+
+main .nft-conteiner {
+    background-color: #14283C;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+main .nft-conteiner h1 {
+    font-size: 1.1em;
+    padding: 10px 0px 7px 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main .nft-conteiner a {
+    text-decoration: none;
+    color: white;
+}
+
+main .nft-conteiner p {
+    color: #a3b5c9;
+    padding: 10px 0px 12px 25px;
+}
+
+main .nft-status {
+    display: flex;
+}
+
+main .nft-status h2 {
+    padding: 0px 0px 10px 25px;
+    color: #1AB9C1;
+    font-size: 1.1em;
+}
+
+main .nft-conteiner #horario {
+    padding: 0px 0px 10px 50px;
+    font-size: 1.1em;
+}
+
+main .img {
+    text-align: center;
+}
+
+main .img img {
+    padding-top: 20px;
+}
+
+main .creator {
+    display: flex;
+    padding: 10px 0px 20px 25px;
+    border-radius: 10px;
+}
+
+main .creator p {
+    padding-top: 10px;
+}
+
+main .creator img {
+    border: solid white;
+    border-radius: 50%;
+}
+
+main .creator a {
+    text-decoration: none;
+    color: white;
+}
+
+main .creator a {
+    color: white;
+}
+
+main .creator a:hover {
+    color: #1AB9C1;
+}
+
+main .nft-conteiner a:hover {
+    color: #1AB9C1;
+}
+
+main .nft-conteiner img:hover {
+    cursor: pointer;    
+}
